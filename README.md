@@ -14,9 +14,6 @@ swift language project of making cloud server
 
 * install the file using vscode extension called github extension
 
-```
-
-```
 
 ## Help
 
